@@ -5,7 +5,6 @@ Welcome to the Controlabs guidelines!
 
 ## Communicating
 
-- Talk to us on Gitter: https://gitter.im/controlabs
 - [Twitter](https://twitter.com/controlabs)
 - Contact one of the admins in the email: controlabs@protonmail.com
 
